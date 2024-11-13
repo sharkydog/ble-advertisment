@@ -1,0 +1,19 @@
+{
+  "name": "sharkydog/ble-advertisment",
+  "description": "BLE Advertisment class and AdvData parser",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Aleksandar Dimitrov",
+      "email": "admin@sharkydog.info"
+    }
+  ],
+  "require": {
+    "php": ">=7.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "SharkyDog\\BLE\\": "src/"
+    }
+  }
+}
